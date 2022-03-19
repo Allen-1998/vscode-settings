@@ -1,3 +1,32 @@
 {
-  "recommendations": ["johnsoncodehk.volar", "stylelint.vscode-stylelint", "dbaeumer.vscode-eslint", "esbenp.prettier-vscode", "streetsidesoftware.code-spell-checker"]
+  "recommendations": [
+    "johnsoncodehk.volar",
+    "stylelint.vscode-stylelint",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "lihuiwang.vue-alias-skip",
+    "tobiasalthoff.atom-material-theme",
+    "formulahendry.auto-close-tag",
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "coenraads.bracket-pair-colorizer-2",
+    "ms-ceintl.vscode-language-pack-zh-hans",
+    "bierner.color-info",
+    "editorconfig.editorconfig",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "abusaidm.html-snippets",
+    "xabikos.javascriptsnippets",
+    "leetcode.vscode-leetcode",
+    "ritwickdey.liveserver",
+    "yzhang.markdown-all-in-one",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "alefragnani.project-manager",
+    "gruntfuggly.todo-tree",
+    "vscode-icons-team.vscode-icons",
+    "jcbuisson.vue",
+    "hollowtree.vue-snippets"
+  ]
 }
