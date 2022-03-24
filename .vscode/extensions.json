@@ -27,6 +27,11 @@
     "gruntfuggly.todo-tree",
     "vscode-icons-team.vscode-icons",
     "jcbuisson.vue",
-    "hollowtree.vue-snippets"
+    "hollowtree.vue-snippets",
+    "naumovs.color-highlight",
+    "usernamehw.errorlens",
+    "wallabyjs.quokka-vscode",
+    "antfu.where-am-i",
+    "sdras.vue-vscode-snippets"
   ]
 }

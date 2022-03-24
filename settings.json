@@ -1,0 +1,13 @@
+{
+  "workbench.colorTheme": "Atom Material Theme",
+  "workbench.iconTheme": "vscode-icons",
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "explorer.confirmDelete": false,
+  "window.zoomLevel": -1,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "leetcode.defaultLanguage": "typescript",
+  "leetcode.endpoint": "leetcode-cn",
+  "leetcode.workspaceFolder": "c:\\Users\\27297\\Desktop\\储物箱\\code\\leetcode",
+  "leetcode.hint.configWebviewMarkdown": false
+}

@@ -1,4 +1,5 @@
 {
+  "editor.tabSize": 2,
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true,
@@ -7,12 +8,6 @@
   "stylelint.validate": ["css", "scss", "vue"],
   "eslint.validate": ["typescript", "vue", "html", "json"],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[css]": {
-    "editor.defaultFormatter": "stylelint.vscode-stylelint"
-  },
-  "[scss]": {
-    "editor.defaultFormatter": "stylelint.vscode-stylelint"
-  },
   "json.format.enable": false,
   "files.associations": {
     "*.json": "jsonc"
@@ -23,5 +18,6 @@
   "prettier.printWidth": 100,
   "prettier.singleQuote": true,
   "prettier.semi": true,
-  "prettier.arrowParens": "always"
+  "prettier.arrowParens": "always",
+  "cSpell.words": ["leetcode"]
 }
