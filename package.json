@@ -1,0 +1,20 @@
+{
+  "name": "vscode-settings",
+  "version": "1.0.0",
+  "description": "<samp><b>Allen's VS Code Settings</b></samp>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "p": "git add . && git commit -m \"update\" && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allen-1998/vscode-settings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allen-1998/vscode-settings/issues"
+  },
+  "homepage": "https://github.com/Allen-1998/vscode-settings#readme"
+}

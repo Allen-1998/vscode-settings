@@ -1,4 +1,5 @@
 {
+  "editor.tabSize": 2,
   "workbench.colorTheme": "Atom Material Theme",
   "workbench.iconTheme": "vscode-icons",
   "bracket-pair-colorizer-2.depreciation-notice": false,
@@ -9,5 +10,16 @@
   "leetcode.defaultLanguage": "typescript",
   "leetcode.endpoint": "leetcode-cn",
   "leetcode.workspaceFolder": "c:\\Users\\27297\\Desktop\\储物箱\\code\\leetcode",
-  "leetcode.hint.configWebviewMarkdown": false
+  "leetcode.hint.configWebviewMarkdown": false,
+  "editor.inlineSuggest.enabled": true,
+  "leetcode.hint.commandShortcut": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "files.exclude": {
+    "**/.git": false,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true
+  }
 }
